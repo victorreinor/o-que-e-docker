@@ -33,14 +33,14 @@ No Docker temos a maior parte dos benefícios que a máquina virtual tem que é:
 
 A maior vantagem do Docker sobre as máquinas virtuais é a quantidade de recursos que ele consome ao ser executado, por exemplo: A quantidade de recurso de memória que um container requer é absurdamente menor do que a quantidade de memória que por exemplo um sistema operacional inteiro;
 
-[![Container vs Vm](https://github.com/victorreinor/o-que-e-docker/container-vs-vm.jpg "Container vs Vm")](https://github.com/victorreinor/o-que-e-docker/container-vs-vm.jpg "Container vs Vm")
+[![Container vs Vm](https://github.com/victorreinor/o-que-e-docker/blob/master/container-vs-vm.jpg "Container vs Vm")](https://github.com/victorreinor/o-que-e-docker/blob/master/container-vs-vm.jpg "Container vs Vm")
 
 # LXC vs Docker
 
 A tecnologia LXC ela já existia e ela era fantástica, grande dificuldade era o seu uso que precisava de um conhecimento muito específico e aprofundado para que pudesse usar essa tecnologia de uma forma mais útil, o crescimento do Docker está ai para comprovar que essa tecnologia é fantástica.
 O Docker faz é: "criar um interface amigável" e toda uma estrutura ao redor do Docker para te dar um suporte desta tecnologia e existe varias ferramentas e formas de interagir
 
-[![LXC vs Docker](https://github.com/victorreinor/o-que-e-docker/lxc-vs-docker.jpg "LXC vs Docker")](https://github.com/victorreinor/o-que-e-docker/lxc-vs-docker.jpg "LXC vs Docker")
+[![LXC vs Docker](https://github.com/victorreinor/o-que-e-docker/blob/master/lxc-vs-docker.png "LXC vs Docker")](https://github.com/victorreinor/o-que-e-docker/blob/master/lxc-vs-docker.png "LXC vs Docker")
 
 # O que é container?
 - Segregação de processos no mesmo Kernel (Isolamento);
